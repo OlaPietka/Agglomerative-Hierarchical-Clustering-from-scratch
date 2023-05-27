@@ -9,6 +9,7 @@ The similarity of two clusters $C_i, C_j$ is determined by a distance measure.
 
 ### Single link
 ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5Cbg%7Bblue%7D%7B%5Ccolor%7BOrange%7D%20D(C_i%20,%20C_j)%20=%20min%5C%7Bd(v_p%20,%20v_q)%20%7C%20v_p%20%5Cin%20C_i%20,%20v_q%20%5Cin%20C_j%5C%7D%7D)
+<img src="https://latex.codecogs.com/svg.image?%5Cinline%20%5Cbg%7Bblue%7D%7B%5Ccolor%7BOrange%7D%20D(C_i%20,%20C_j)%20=%20min%5C%7Bd(v_p%20,%20v_q)%20%7C%20v_p%20%5Cin%20C_i%20,%20v_q%20%5Cin%20C_j%5C%7D%7D">
 
 ### Complete_link
 ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5Cbg%7Bblue%7D%7B%5Ccolor%7BOrange%7D%20D(C_i%20,%20C_j)%20=%20max%5C%7Bd(v_p%20,%20v_q)%20%7C%20v_p%20%5Cin%20C_i%20,%20v_q%20%5Cin%20C_j%5C%7D%7D)
